@@ -171,7 +171,7 @@
 </table>
 <h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
 <img align="left"  width="5%" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/12.gif">
-<img align="right"  width="40%" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/123.gif">
+<img align="right"  width="40%" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/office%203.gif">
 <table width="100%" align="center">
   <tr>
     <td width="100%" align="center">
