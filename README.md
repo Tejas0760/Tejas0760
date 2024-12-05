@@ -1,5 +1,9 @@
-<h1> Hi 👋, I'm Tejas  </h1> 
-<img align="right"  width="30%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/Confused_Programmer.gif">
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Tejas!;Welcome+to+my+GitHub!&center=true&size=30"> </p> <p align="center"> <img src="https://github.com/Tejas0760/Tejas0760/raw/main/Files/banner.gif" alt="Banner Image"> </p> 
+<img align="right"  width="30%" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Confused_Programmer.gif">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;DevOps+Engineer;Open-Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+
+
 
 
 ### <div align="left">I am a Full-Stack Developer with a passion for building and deploying innovative web applications.</div>  
@@ -19,62 +23,136 @@
 
 <br/>  
 
-
-# My Skill Set  
-<img align="center"  width="100%" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/12333.png">
-<table><tr><td valign="top" width="33%">
+# 💻 My Tech Stack
 
 
+<img align="center" width="100%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/12333.png" />
 
-## Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>   -->
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/css3-original-wordmark.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
+<table>
+  <tr>
+    <th align="center">Programming Languages</th>
+    <th align="center">Frontend Frameworks</th>
+    <th align="center">Backend Frameworks</th>
+    <th align="center">Database Management Systems (DBMS)</th>
+    <th align="center">DevOps & Tools</th>
+    <th align="center">Design & Utilities</th>
+  </tr>
+  <tr>
+    <!-- Programming Languages -->
+    <td align="center">
+<!--       <a href="https://www.python.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
+      </a> -->
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" />
+      </a>
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
+      </a>
+      <a href="https://go.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="50" />
+      </a>
+    </td>
+    <!-- Frontend Frameworks -->
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
+      </a>
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" />
+      </a>
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" />
+      </a>
+      <a href="https://sass-lang.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="50" />
+      </a>
+      <a href="https://redux.js.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" />
+      </a>
+    </td>
+    <!-- Backend Frameworks -->
+    <td align="center">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" />
+      </a>
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" />
+      </a>
+<!--       <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50" />
+      </a> -->
+      <a href="https://spring.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" />
+      </a>
+    </td>
+    <!-- Database Management Systems -->
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
+      </a>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
+      </a>
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" />
+      </a>
+<!--       <a href="https://redis.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" />
+      </a>
+      <a href="https://www.prisma.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="50" />
+      </a> -->
+    </td>
+    <!-- DevOps & Tools -->
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" />
+      </a>
+      <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" />
+      </a>
+      <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" />
+      </a>
+      <a href="https://www.jenkins.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" />
+      </a>
+      <a href="https://grafana.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="50" />
+      </a>
+<!--       <a href="https://www.terraform.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" />
+      </a>
+      <a href="https://nginx.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="50" />
+      </a> -->
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
+      </a>
+    </td>
+    <!-- Design & Utilities -->
+    <td align="center">
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
+      </a>
+      <a href="https://postman.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" />
+      </a>
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" />
+      </a>
+<!--       <a href="https://heroku.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="50" />
+      </a> -->
+    </td>
+  </tr>
+</table>
 
-</td><td valign="top" width="33%">
-
-## Backend  
-<div align="center">  
-<!-- <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/KartikDevSharma/KartikDevSharma/raw/main/Files/Techstack/python-original.svg" alt="Python" height="50" /></a>   -->
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/prisma.png" alt="Prisma" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-## DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/ansible.png" alt="Ansible" height="50" /></a>  
-<!-- <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/terraformio-icon.svg" alt="Terraform" height="50" /></a>   -->
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/gitlab.svg" alt="GitLab" height="50" /></a>  
-<!-- <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/powershell.png" alt="PowerShell" height="50" /></a>   -->
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/grafana.png" alt="Grafana" height="50" /></a>  
-<!-- <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/Techstack/nginx-original.svg" alt="Nginx" height="50" /></a>   -->
-</div>
-
-</td></tr></table>
+---
 
 <br/>  
 <img align="right"  width="40%" src="https://github.com/Tejas0760/RandomStuff/blob/main/Random_Stuff/Files/12345.gif">
