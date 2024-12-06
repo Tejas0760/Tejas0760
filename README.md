@@ -5,7 +5,6 @@
 
 
 
-
 ### <div align="left">I am a Full-Stack Developer with a passion for building and deploying innovative web applications.</div>  
   
 
@@ -185,36 +184,12 @@
     <td><code>__tejas__</code></td>
     <td><a href="https://www.leetcode.com/__tejas__" target="_blank">LeetCode</a></td>
   </tr>
-<!--   <tr>
-    <td><img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" width="20" /></td>
-    <td>Code 360</td>
-    <td><code>KartikDev</code></td>
-    <td><a href="https://www.naukri.com/code360/profile/KartikDev" target="_blank">Code 360</a></td>
-  </tr> -->
   <tr>
     <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="20" /></td>
     <td>HackerRank</td>
     <td><code>Tejas Choudhary</code></td>
     <td><a href="https://www.hackerrank.com/profile/tejaschaudhary81" target="_blank">HackerRank</a></td>
   </tr>
-<!--   <tr>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" width="20" /></td>
-    <td>Twitter</td>
-    <td><code>KartikDev_</code></td>
-    <td><a href="https://twitter.com/KartikDev_" target="_blank">Twitter</a></td>
-  </tr> -->
-<!--   <tr>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" width="20" /></td>
-    <td>Kaggle</td>
-    <td><code>kartikdevsharma</code></td>
-    <td><a href="https://kaggle.com/kartikdevsharma" target="_blank">Kaggle</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" width="20" /></td>
-    <td>Dev.to</td>
-    <td><code>KartikDevSharma</code></td>
-    <td><a href="https://dev.to/KartikDevSharma" target="_blank">Dev.to</a></td>
-  </tr> -->
 </table>
 
 
