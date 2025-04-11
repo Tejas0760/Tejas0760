@@ -202,7 +202,7 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%">
+    <td width="100%">
         <a href="https://github.com/Tejas0760">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tejas0760&show_icons=true&count_private=true&hide_border=true&theme=radical" />
@@ -211,7 +211,7 @@
           </picture>
         </a>
     </td>
-    <td width="50%">
+<!--     <td width="50%">
         <a href="https://github.com/Tejas0760">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Tejas0760&hide_border=true&theme=radical" />
@@ -219,7 +219,7 @@
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas0760&hide_border=true&theme=radical" alt="Streak Stats" />
           </picture>
         </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 <h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
